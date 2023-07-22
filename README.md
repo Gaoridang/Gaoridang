@@ -8,7 +8,12 @@
 <img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/>
 <img src="https://img.shields.io/badge/framer-0055FF?style=flat-square&logo=framer&logoColor=white"/>
-</div>
+</div>  
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gaoridang&show_icons=true&include_all_commits=true&bg_color=transparent&title_color=black&text_color=black">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaoridang&layout=compact&bg_color=transparent&title_color=black&text_color=black">
+</p>
+
 <!--
 **Gaoridang/Gaoridang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
